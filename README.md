@@ -1,2 +1,2 @@
 # codesnippets
-A collection of simple but useful code snippets 
+A collection of simple but useful code snippets
